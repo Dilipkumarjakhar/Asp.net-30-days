@@ -2,4 +2,6 @@
 
 # how to connect sql server 
 
- connectionstring  
+ ConnectionString  
+ ![image](https://github.com/Dilipkumarjakhar/Asp.net-30-days/assets/38867706/4e326594-1832-44ec-907c-abcccd9e1836)
+
